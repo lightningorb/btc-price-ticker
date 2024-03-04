@@ -1,0 +1,4 @@
+enable_portfolio_mode = false
+portfolio_value_in_btc = 0.1
+round = true
+average_price_in_last_seconds = 60

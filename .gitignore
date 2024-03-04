@@ -1,0 +1,7 @@
+.vscode
+target
+portfolio.txt
+.venv
+plugins
+LaunchAgents
+config.toml
